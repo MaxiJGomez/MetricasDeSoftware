@@ -1,0 +1,10 @@
+Metricas Orientadas a Objetos:
+Las métricas orientadas a objetos se centran en métricas que se pueden aplicar a las características de encapsulamiento, ocultamiento de información, herencia y técnicas de abstracción de objetos que los hagan unicos.
+Estas metricas  permiten averiguar cuán bien están definidas las clases y el sistema, lo cual tiene un impacto directo en la mantenibilidad del mismo, tanto por la comprensión de lo desarrollado como por la dificultad de modificarlo con éxito.
+Existen un conjunto  de medidas:
+-Metodos ponderados por clase(MPC)
+-Profundidad arbol de herencia(PAH)
+-Numero de descendientes(NDD)
+-Acoplamiento entre clases(ACO)
+-Respuesta para una clase(RPC)
+-Carencia de cohension en los metodos(CCM)
