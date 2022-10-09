@@ -1,0 +1,15 @@
+
+Métrica del Software
+
+Métricas orientadas a caso de uso
+Los casos de uso son muy utilizados como un método para describir los requerimientos  del cliente a nivel personal o empresarial, los cuales implican características y funciones del software. El caso de uso se utiliza al principio del proceso de desarrollo del software, en realidad antes que se lleve a cabo el mismo, lo que permite emplearlo para definir las actividades y procesos antes de iniciarlas, luego se lleva a cabo el modelado y construcción del sistema. 
+Los casos de uso permiten describir a simple vista las funciones y características para el usuario que son requisitos básicos para un sistema. El caso de uso es independiente del lenguaje de programación. Además, el número de casos de uso tiene que ver con el  tamaño de la aplicación en líneas de código (LOC) y al número de casos de prueba que tendrán que realizarse hasta completar la aplicación.
+Los casos de uso pueden crearse en niveles de abstracción enormemente diferentes, por lo que no hay “tamaño” estándar para un caso de uso. Sin una medida estándar de lo que es un caso de uso, su aplicación como medida de normalización (por ejemplo, esfuerzo empleado por caso de uso) causa suspicacia.
+
+Características de los casos de uso:
+Los casos de uso brindan a un equipo de software comprensión acerca del ámbito y los requisitos del software. Algunas de sus características son:
+• Los casos de uso se describen usando muchos formatos y estilos diferentes; no existe una forma estándar.
+• Los casos de uso representan una visión externa (la visión del usuario) del software y, por tanto, pueden escribirse en muchos niveles de abstracción diferentes.
+• Los casos de uso no abordan la complejidad de las funciones y de las características que se describen.
+• Los casos de uso pueden describir comportamiento complejo (por ejemplo, interacciones) que involucran muchas funciones y características.
+A diferencia de una LOC o de un punto de función, el “caso de uso” de una persona puede requerir meses de esfuerzo, mientras que el de otra puede implementarse en un día o dos.
